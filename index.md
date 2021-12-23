@@ -98,14 +98,6 @@
         BEWERBUNGSFOTOS <br> <span class="text-highlight">BERLIN-MITTE</span>
         </h1>
     
-    <div>
-        <a href="#"target="_blank">Infos</a>
-        <a href="#"target="_blank">Preise</a>
-        <a href="#"target="_blank">Termin</a>
-        <a href="#"target="_blank">Standort</a>
-    </div>
-</div>
-
 
 
 
